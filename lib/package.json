@@ -1,6 +1,6 @@
 {
   "name": "@snivik/react-django-boilerplates",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "A set of React boileplate objects designed to work with Django and it's REST framework",
   "main": "./dist/index.js",
   "scripts": {
